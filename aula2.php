@@ -6,6 +6,7 @@ comenta mais de uma linha
 
 //comenta apenas uma linha
 $nome = "Francisco";
+$sobrenome = "Sousa";
 
 
 //Tipos de dados
